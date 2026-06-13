@@ -1,0 +1,17 @@
+0
+Pregnancies
+Glucose
+BloodPressure
+SkinThickness
+Insulin
+BMI
+DiabetesPedigreeFunction
+Age
+BMI_category_Normal
+BMI_category_Overweight
+BMI_category_Obese
+Age_group_Middle
+Age_group_Senior
+Age_group_Elderly
+Glucose_risk_Pre-diabetic
+Glucose_risk_Diabetic
